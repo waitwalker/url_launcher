@@ -77,6 +77,7 @@ public class WebViewActivity extends Activity {
 
     webview.getSettings().setJavaScriptEnabled(enableJavaScript);
     webview.getSettings().setDomStorageEnabled(enableDomStorage);
+    webview.getSettings().setSavePassword(false);
 
     // Open new urls inside the webview itself.
     webview.setWebViewClient(webViewClient);

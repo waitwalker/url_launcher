@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1157666756/e2e.iml" filepath="$PROJECT_DIR$/.idea/modules/1157666756/e2e.iml" group="android/e2e" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-689201524/url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/-689201524/url_launcher.iml" group="android/url_launcher" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-916625886/url_launcher_macos.iml" filepath="$PROJECT_DIR$/.idea/modules/-916625886/url_launcher_macos.iml" group="android/url_launcher_macos" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1677689049/url_launcher_web.iml" filepath="$PROJECT_DIR$/.idea/modules/1677689049/url_launcher_web.iml" group="android/url_launcher_web" />
+    </modules>
+  </component>
+</project>
